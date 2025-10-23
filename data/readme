@@ -1,0 +1,12 @@
+# 📂 Bevio & Co. – Dados Fictícios
+
+Este diretório contém as bases de dados usadas para construir o dashboard no Power BI.
+
+| Arquivo | Descrição |
+|----------|------------|
+| `orders.csv` | Dados de pedidos (order_id, order_date, user_id, product_id, revenue) |
+| `targets.csv` | Metas mensais por usuário (user_id, category, city, monthly revenue target) |
+| `users.csv` | Cadastro de clientes (user_id, category, city) |
+| `items.csv` | Catálogo de produtos (item_id, category) |
+
+Todos os dados são **sintéticos (fictícios)** e usados apenas para fins educacionais e de portfólio.
