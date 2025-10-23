@@ -11,7 +11,7 @@ O objetivo é simular um ambiente real de **análise de desempenho comercial**, 
 A base de dados é **fictícia** e representa as principais entidades do negócio da Bevio & Co.:
 
 - **Orders (Pedidos):** `order_id`, `order_date`, `user_id`, `item_id`, `quantity`, `revenue`  
-- **Sales Targets (Metas):** metas mensais e anuais por produto e região  
+- **Targets (Metas):** metas mensais e anuais por produto e região  
 - **Users (Clientes):** informações dos estabelecimentos (bar, restaurante, loja, distribuidor)  
 - **Items (Produtos):** catálogo com `item_id`, `nome`, `categoria`, `preço`
 
